@@ -22,4 +22,7 @@ Notes:
 Generate your own Serial number, ROM, etc, with GENSMBIOS, check the config.plist!!!
 
 
+Credits:
+Huge thanks to https://github.com/MirkoCovizzi/thinkpad-p51-hackintosh
+
 ![Screen Shot 2022-10-17 at 12 23 32 PM](https://user-images.githubusercontent.com/2180292/196254178-3d7b70d8-70aa-402e-9454-2647abc2be2a.png)
