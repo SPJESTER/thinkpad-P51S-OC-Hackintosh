@@ -11,6 +11,12 @@ Intel HD Graphics 620 / Nvidia Disabled - 1920x1080p
 
 Trackpad, Keyboard, Brightness, Trackpoint, All Working
 
+Battery Status Does Work
+
 Intel Ethernet
 
 Running MAC OS Monterey with OpenCore 8.5
+
+
+Notes:
+Generate your own Serial number, ROM, etc, with GENSMBIOS, check the config.plist!!!
