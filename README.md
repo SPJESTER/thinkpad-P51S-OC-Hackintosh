@@ -5,7 +5,7 @@ Lenovo P51S 7th Gen Intel Kaby Lake
 
 Realtek Audio ALC298
 
-Broadocm Bluetooth/Intel Wifi 8625 / 8675
+Broadcom Bluetooth/Intel Wifi 8625 / 8675
 
 Intel HD Graphics 620 / Nvidia Disabled - 1920x1080p
 
