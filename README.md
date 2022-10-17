@@ -1,7 +1,7 @@
 # thinkpad-P51S-OC-Hackintosh
 Monterey Working Fine
 
-Lenovo P51S 
+Lenovo P51S 7th Gen Intel Kaby Lake
 
 Realtek Audio ALC298
 
@@ -13,4 +13,4 @@ Trackpad, Keyboard, Brightness, Trackpoint, All Working
 
 Intel Ethernet
 
-Running MAC OS Monterey with OpenCore 8.4
+Running MAC OS Monterey with OpenCore 8.5
