@@ -444,27 +444,35 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BgAbWQ==</data>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,2,0</string>
+				<data>AAAWWQ==</data>
 				<key>device-id</key>
-				<data>G1kAAA==</data>
-				<key>device_type</key>
-				<string>VGA compatible controller</string>
+				<data>FlkAAA==</data>
 				<key>disable-external-gpu</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-memorycount</key>
-				<data>AwAAAA==</data>
-				<key>framebuffer-mobile</key>
+				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-con1-alldata</key>
+				<data>AQUJAAAIAACHAQAA</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-con2-alldata</key>
+				<data>/wQKAAAIAACHAQAA</data>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con2-index</key>
+				<data>/////w==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-portcount</key>
+				<data>AgAAAA==</data>
 				<key>framebuffer-stolenmem</key>
-				<data>AABgAg==</data>
+				<data>AAAwAQ==</data>
 				<key>framebuffer-unifiedmem</key>
-				<data>AAAAYA==</data>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
+				<data>AAAAgA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -474,6 +482,24 @@
 	<dict>
 		<key>Add</key>
 		<array>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>Lilu.kext</string>
+				<key>Comment</key>
+				<string>Lilu.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/Lilu</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
 			<dict>
 				<key>Arch</key>
 				<string>Any</string>
@@ -539,24 +565,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelMausiEthernet</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>Lilu.kext</string>
-				<key>Comment</key>
-				<string>Lilu.kext</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/Lilu</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -967,7 +975,7 @@
 				<key>Base</key>
 				<string>_kernel_debug_string_early</string>
 				<key>Comment</key>
-				<string>Send early prints to z port</string>
+				<string>Send early prints to serial port</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
@@ -1072,7 +1080,7 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>External</string>
+			<string>Builtin</string>
 			<key>PickerVariant</key>
 			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
@@ -1087,7 +1095,7 @@
 		<key>Debug</key>
 		<dict>
 			<key>AppleDebug</key>
-			<true/>
+			<false/>
 			<key>ApplePanic</key>
 			<true/>
 			<key>DisableWatchDog</key>
@@ -1256,7 +1264,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 -liludbg -wegnoegpu -alcid=3</string>
+				<string>keepsyms=1 -wegnoegpu -alcid=3 agdpmod=vit9696 igfxonln=1</string>
 				<key>prev-lang:kbd</key>
 				<data>ZW4tVVM6MA==</data>
 			</dict>
