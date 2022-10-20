@@ -17,6 +17,7 @@ Intel Ethernet
 
 Running MAC OS Monterey with OpenCore 8.5
 
+Updates:
 Tweaked Intel UHD 620, No HDMI
 
 
