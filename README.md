@@ -17,6 +17,8 @@ Intel Ethernet
 
 Running MAC OS Monterey with OpenCore 8.5
 
+Tweaked Intel UHD 620, No HDMI
+
 
 Notes:
 Generate your own Serial number, ROM, etc, with GENSMBIOS, check the config.plist!!!
