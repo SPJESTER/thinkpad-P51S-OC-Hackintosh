@@ -30,6 +30,6 @@ Huge thanks to https://github.com/MirkoCovizzi/thinkpad-p51-hackintosh
 
 And for the original OC config https://github.com/MirkoCovizzi/thinkpad-p51-hackintosh/pull/11
 
-![Screen Shot 2022-10-17 at 12 23 32 PM](https://user-images.githubusercontent.com/2180292/196254178-3d7b70d8-70aa-402e-9454-2647abc2be2a.png)
+![Screen Shot 2022-10-19 at 10 49 16 PM](https://user-images.githubusercontent.com/2180292/196852249-fbd69165-a3ff-4ac3-a952-68b954a507d2.png)
 
 https://youtu.be/_VT9GIH61Ow
