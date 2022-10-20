@@ -17,6 +17,8 @@
 [] Running MAC OS Monterey with OpenCore 8.5
 
 
+
+
 *** What Works: ***
 
 -Wifi and Personal Hotspot
@@ -25,7 +27,7 @@
 
 -Bluetooth tested with AirPods Pro’s
 
--Airplay
+-Airdrop
 
 -Webcam
 
@@ -38,6 +40,8 @@
 -Battery Percentage
 
 -Sleep does work, but has issues sometimes.
+
+
 
 
 *** What Doesn’t Work: ***
