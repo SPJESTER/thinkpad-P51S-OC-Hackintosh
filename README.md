@@ -8,6 +8,7 @@
 [] Intel Ethernet
 [] Running MAC OS Monterey with OpenCore 8.5
 
+
 What Works:
 -Wifi and Personal Hotspot
 -Ethernet
@@ -25,9 +26,9 @@ What Doesn’t Work:
 -HDMI and Thunderbolt 3
 -Nvidia Graphics of course
 
-Credits:
-Huge thanks to https://github.com/MirkoCovizzi/thinkpad-p51-hackintosh
-And this  **https://github.com/**MirkoCovizzi/thinkpad-p51-hackintosh#11
+Credits: 
+Huge thanks to https://github.com/MirkoCovizzi/thinkpad-p51-hackintosh
+And this  MirkoCovizzi/thinkpad-p51-hackintosh#11
 
 Video of it in action https://youtu.be/_VT9GIH61Ow
 
