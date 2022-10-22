@@ -1,4 +1,4 @@
-# thinkpad-P51S-OC-Hackintosh
+[[# thinkpad-P51S-OC-Hackintosh
 
 *** Lenovo P51S ***
 
@@ -58,4 +58,9 @@ And this  MirkoCovizzi/thinkpad-p51-hackintosh#11
 
 Video of it in action https://youtu.be/_VT9GIH61Ow
 
+
+Running Monterey 12.6
 ![Screen Shot 2022-10-19 at 10 49 16 PM](https://user-images.githubusercontent.com/2180292/196852249-fbd69165-a3ff-4ac3-a952-68b954a507d2.png)
+
+Running Ventura 13.0 (22A380) - Use Latest OpenIntelWireless from here https://github.com/OpenIntelWireless/itlwm/releases
+![069vz80yj8v91](https://user-images.githubusercontent.com/2180292/197314939-a12f0249-93a8-4785-903f-5d2640d747de.png)
