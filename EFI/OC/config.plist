@@ -778,7 +778,7 @@
 				<key>Comment</key>
 				<string>VoodooI2CSynaptics.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CSynaptics</string>
 				<key>MaxKernel</key>
@@ -1145,7 +1145,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>83</integer>
+			<integer>2</integer>
 		</dict>
 		<key>Entries</key>
 		<array>
